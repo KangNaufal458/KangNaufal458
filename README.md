@@ -18,11 +18,8 @@ Aspiring Software Engineer currently studying Informatics at STMIK Amikom Suraka
 
 
 ------
-<h3 align="left">Activity:</h3>
-
-[![Ashutosh's github activity graph](https://github.com/KangNaufal458/My-Library.git/graph?username=KangZS&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
-  <a href="https://github.com/RResabala2015">
+  <a href="https://github.com/KangNaufal458">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
 </div>
 ------
