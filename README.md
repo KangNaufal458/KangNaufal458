@@ -10,10 +10,6 @@ Aspiring Software Engineer currently studying Informatics at STMIK Amikom Suraka
   - 💬 Ask me about **Html, Css, Bootstrap, Javascript, React,  PHP, Laravel,  Adobe Premiere, Java, CorelDraw , Adobe Photoshop, Google Cloud Platform,**
   - ⚡ Fun fact: I look like a Graphic desighner and video editor.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
 <a href="[https://www.linkedin.com/in/renato-r-611795133/](https://github.com/KangNaufal458)" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="KangNaufal548" height="40" width="60" ></i>
 </a>
 </p>
@@ -42,16 +38,16 @@ Aspiring Software Engineer currently studying Informatics at STMIK Amikom Suraka
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/></td>
+        <td style="font-weight: bold; padding-right: 15px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,python,laravel,nodejs,"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/></td>
+        <td style="font-weight: bold; padding-right: 15px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,html,css,figma"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/></td>
+        <td style="font-weight: bold; padding-right: 15px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,"/></td>
     </tr>
     <tr>
     </tr>
@@ -76,5 +72,5 @@ Aspiring Software Engineer currently studying Informatics at STMIK Amikom Suraka
 </table>
 
 ------
-[RResabala2015](https://github.com/RResabala2015)
+[NaufalZS](https://github.com/RResabala2015)
 01/09/2025
