@@ -14,11 +14,11 @@ Aspiring Software Engineer currently studying Informatics at STMIK Amikom Suraka
 <p align="left">
 <a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
 </a>
-<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
+<a href="[https://www.linkedin.com/in/renato-r-611795133/](https://github.com/KangNaufal458)" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="KangNaufal548" height="40" width="60" ></i>
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BangZS&label=Profile%20views&color=0e75b6&style=flat" alt="BangZS2005" /> </p>
 
 
 ------
