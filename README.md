@@ -10,7 +10,7 @@ Aspiring Software Engineer currently studying Informatics at STMIK Amikom Suraka
   - 💬 Ask me about **Html, Css, Bootstrap, Javascript, React,  PHP, Laravel,  Adobe Premiere, Java, CorelDraw , Adobe Photoshop, Google Cloud Platform,**
   - ⚡ Fun fact: I look like a Graphic desighner and video editor.
 
-<a href="[https://www.linkedin.com/in/renato-r-611795133/](https://github.com/KangNaufal458)" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="KangNaufal548" height="40" width="60" ></i>
+<a href="[[https://www.linkedin.com/in/naufal-zs-553a35376/]](https://github.com/KangNaufal458)" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="KangNaufal548" height="40" width="60" ></i>
 </a>
 </p>
 
