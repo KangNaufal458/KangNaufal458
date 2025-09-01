@@ -7,7 +7,7 @@ Aspiring Software Engineer currently studying Informatics at STMIK Amikom Suraka
 
   - 🔭 I’m currently  on upgrading java applications from jdk 8, and explore as an application and web designer in figma. 
   - 🌱 I’m currently learning; phyton, Php, Java, Laravel, CSS , NodeJS.
-  - 💬 Ask me about **Html, Css, Bootstrap, Javascript, React,  PHP,  Lumen, Laravel,  Adobe Premiere, Java, CorelDraw , Adobe Photoshop, Google Cloud Platform,**
+  - 💬 Ask me about **Html, Css, Bootstrap, Javascript, React,  PHP, Laravel,  Adobe Premiere, Java, CorelDraw , Adobe Photoshop, Google Cloud Platform,**
   - ⚡ Fun fact: I look like a Graphic desighner and video editor.
 
 <h3 align="left">Connect with me:</h3>
